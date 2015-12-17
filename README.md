@@ -6,6 +6,6 @@
 
 目前维护中的项目包括：
 * [医疗影像](https://fenon.github.io/dicom)
-* [智能计算工具集](https://fenon.github.io/social)
+* [虚拟社交平台](https://fenon.github.io/social)
 * [游戏开发](https://fenon.github.io/SandboxBoilerplate)
 
