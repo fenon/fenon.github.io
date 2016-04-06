@@ -6,4 +6,4 @@
 
 目前维护中的项目包括：
 * [游戏开发](https://fenon.github.io/SandboxBoilerplate)
-* [虚拟社交平台工具](https://fenon.github.io/social)
+* [平台工具](https://fenon.github.io/Platform)
