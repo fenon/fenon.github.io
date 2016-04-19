@@ -3,13 +3,34 @@
   <title>Feed Name</title>
   <link href="http://domain/"/>
   <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
-  <updated>2016-04-19T21:15:04.9613431+08:00</updated>
+  <updated>2016-04-19T22:07:09.7188049+08:00</updated>
   <id>http://domain/</id>
   <author>
     <name>Author</name>
     <email>Email</email>
   </author>
 
+  
+  <entry>
+    <id>http://domain//2016/04/19/rethink.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2016/04/19/rethink.html"/>
+    <title>创业总结</title>
+    <updated>2016-04-19T00:00:00+08:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;5年的时间，虽然曾经离成功的机会很近，但是最终未能抓住。&lt;/p&gt;
+&lt;p&gt;我想，这除了有经验不足的原因，还有一点需要时刻铭记的是：要找齐一个完整企业的铁三角。&lt;/p&gt;
+&lt;p&gt;一个成功的完整企业，往往由铁三角组成：领军、销售、研发，才能在市场中长久独立生存。&lt;/p&gt;
+&lt;p&gt;不是说，能够提供强有力的技术研发，就可以保证企业持续成功，这只是必要条件，而非充分条件。&lt;/p&gt;
+&lt;p&gt;一个不完整的企业，即使偶尔有时成功，也是不可持久的。&lt;/p&gt;
+&lt;p&gt;技术人，应该思考两个问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技术能力，是否已经足够达到别人仰望的高度&lt;/li&gt;
+&lt;li&gt;是否能够做到组建一个完整的团队，并在团队中贡献自己的全力，帮助能带来合作伙伴&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   
   <entry>
     <id>http://domain//2015/11/09/gamedevelopinchina.html</id>
