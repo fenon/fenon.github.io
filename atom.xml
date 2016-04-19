@@ -3,7 +3,7 @@
   <title>Feed Name</title>
   <link href="http://domain/"/>
   <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
-  <updated>2016-04-19T22:07:09.7188049+08:00</updated>
+  <updated>2016-04-19T22:11:16.1170531+08:00</updated>
   <id>http://domain/</id>
   <author>
     <name>Author</name>
@@ -28,7 +28,7 @@
 &lt;p&gt;技术人，应该思考两个问题：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;技术能力，是否已经足够达到别人仰望的高度&lt;/li&gt;
-&lt;li&gt;是否能够做到组建一个完整的团队，并在团队中贡献自己的全力，帮助能带来合作伙伴&lt;/li&gt;
+&lt;li&gt;是否能够做到组建一个完整的团队，并在团队中贡献自己的全力，帮助合作伙伴&lt;/li&gt;
 &lt;/ul&gt;</content>
   </entry>
   
