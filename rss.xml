@@ -6,8 +6,35 @@
     <atom:link href="http://domain/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>周日, 24 四月 2016 10:19:40 +08:00</pubDate>
-    <lastBuildDate>周日, 24 四月 2016 10:19:40 +08:00</lastBuildDate>
+    <pubDate>周一, 25 四月 2016 23:25:35 +08:00</pubDate>
+    <lastBuildDate>周一, 25 四月 2016 23:25:35 +08:00</lastBuildDate>
+    
+    <item>
+      <title>减法</title>
+      <link>http://domain/2016/04/25/subtraction.html</link>
+      <pubDate>周一, 25 四月 2016 00:00:00 +08:00</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2016/04/25/subtraction.html</guid>
+      <description>&lt;p&gt;一切都只是阶段性状态，一切都尚未结束。&lt;/p&gt;
+&lt;p&gt;所以，有必要做一次减法，让自己清醒，让方向明晰。&lt;/p&gt;
+&lt;p&gt;今天抽空对游戏研发的两个方向做了一次数据预演，在&amp;quot;创新&amp;quot;和&amp;quot;微创新&amp;quot;--又名山寨--之间做了一次比较，两者回报率是类似的。但是，考虑到
+创新对团队的要求(主要是产品团队)和资金的要求，以及创新所需的时间周期和风险抵抗力，绝大多数的公司，会被淘汰出创新这个行列中。&lt;/p&gt;
+&lt;p&gt;不是创新不行，而是创新门槛高，所以，国内的&amp;quot;小团队&amp;quot;还是应该专心选择&amp;quot;微创新&amp;quot;，直到&amp;quot;爆发&amp;quot;后，再酌情考虑是否在产品研发上，开辟&amp;quot;创新&amp;quot;线。
+国内有一些创新的成功例子，如网易，如傲世堂，走创新路线，是需要向他们取经学习的。而已经折戈的盛大，则告诉我们，如果手上没有抓住强大的
+渠道资源，依赖做烂产品刷营收的方式，迟早会走向衰亡（腾讯手持渠道则可屹立不倒）。&lt;/p&gt;
+&lt;p&gt;营收要求越来越高，则意味着低营收力的产品没有生存空间，也意味着品类会向有限的几种集中，导致单品成功概率越来越低，成本越来越高。
+这也是国内CP巨头成长到一定程度后，无法持续发展的根本原因。&lt;/p&gt;
+&lt;p&gt;即使如此，在国内游戏行业的巨大回报率的刺激下，无数的CP还是踏上了追求高营收的道路，从而导致一片血海。&lt;/p&gt;
+&lt;p&gt;这也是为什么，最终我圈子内认识的朋友，大都的成就都是来自于运营，而非研发。并不是因为他们更精于运营，而是环境给运营带来了更好的机遇。
+在惨烈的市场竞争环境下，强调重点是营收能力，这是无可非议的选择。即使这样的选择，挤占了研发的空间，导致资源向运营倾斜。&lt;/p&gt;
+&lt;p&gt;无关乎个人能力，只关乎时势。认清这一点，有助于做出合理的自我判断。作为一个希望追求游戏乐趣的技术背景的制作人，我个人认为，国内目前并
+没有提供很好的研发环境。既然无法改变环境，要么适用环境，要么另造环境。&lt;/p&gt;
+&lt;p&gt;所以，我坚持要把目光放到海外的判断。同时，对自己提出两点要求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;产品设计的标准，必须要跟海外同步，而不能局限于国内的产品&lt;/li&gt;
+&lt;li&gt;周期要放长，目光要放长，起码要思考三年后的产品要求，给自己一个足够的时间空间去精雕细琢&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>创业总结</title>
