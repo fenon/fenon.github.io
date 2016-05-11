@@ -7,6 +7,13 @@
   <!-- Generated with pretzel -->
   
   <url>
+    <loc>http://domain/2016/05/11/difference.html</loc>
+    <lastmod>2016-05-11T00:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
     <loc>http://domain/2016/04/25/subtraction.html</loc>
     <lastmod>2016-04-25T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>

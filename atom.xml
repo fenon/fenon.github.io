@@ -3,13 +3,36 @@
   <title>Feed Name</title>
   <link href="http://domain/"/>
   <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
-  <updated>2016-04-25T23:25:35.0607391+08:00</updated>
+  <updated>2016-05-11T11:39:40.7989611+08:00</updated>
   <id>http://domain/</id>
   <author>
     <name>Author</name>
     <email>Email</email>
   </author>
 
+  
+  <entry>
+    <id>http://domain//2016/05/11/difference.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2016/05/11/difference.html"/>
+    <title>创业与从业的差异</title>
+    <updated>2016-05-11T00:00:00+08:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;创业和从业，两者是有差异的。&lt;/p&gt;
+&lt;p&gt;创业者，需要面对三方面的压力：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;经营：创业意味着不确定性，意味着和强大的对手竞争，意味着预期的回报是一个概率事件，从回报的角度计算=预期*概率&lt;/li&gt;
+&lt;li&gt;经济：无论是来自于风投的资金（意味着薪水的大幅度下降），或者是来自于自身的资金（意味着巨额的投入），都是一种压力&lt;/li&gt;
+&lt;li&gt;专业性：在承担了各方面的责任时，留给自身能力增长的时间空间必然会大幅度降低，在这样的前提下，保证专业顶级能力并不容易&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;从业者，在同样的时间内，做好一件事情，保证自我的专业性，即可。做到这一点，就可以保证收入和自身价值。&lt;/p&gt;
+&lt;p&gt;那么，现在问题来了，以3倍的投入，获取3倍的回报，是否值得？牺牲时间获取收入，在人生不同阶段，在家庭需要你呆在身边的时候，有时未必是一种优秀选择。&lt;/p&gt;
+&lt;p&gt;所以，这是两种不同的选择，某种程度而言，两者并没有高低之分（君不见多少从业者走到巅峰，最终也是稳妥的高帅富）。&lt;/p&gt;
+&lt;p&gt;因为这样的原因，今天我对可以在各自领域里面做出杰出贡献的朋友的建议：如果创业不是来自心灵的召唤，不妨做好自己手上的事情，
+所谓的万众创业，并不适合每一个优秀的人。&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://domain//2016/04/25/subtraction.html</id>
