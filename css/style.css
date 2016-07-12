@@ -45,7 +45,9 @@ li
 }
 blockquote
 {
-	background: #dddddd
+	margin: 15px;
+	padding: 10px;
+	background: #eeeeee
 }
 .entry ul, .idea ul 
 {
